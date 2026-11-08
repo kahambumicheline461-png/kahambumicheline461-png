@@ -1,37 +1,26 @@
-👋 BONJOUR c'est moi MICHELINE !</h1>
+# 👋 BONJOUR, moi c'est MICHEE !
 
-<h3 align="center">
-Étudiante en informatique | Future développeuse web 💻
-</h3>
+### 💻 Étudiante en informatique appliquée à la gestion des entreprises
 
----
+Bienvenue sur mon profil GitHub !
 
-### 🌸 À propos de moi
+## 🌸 À propos de moi
+- 🎓 Étudiante en informatique
+- 💻 Future développeuse web
+- 🌱 J'apprends HTML, CSS et JavaScript
+- 🚀 Passionnée par les nouvelles technologies
 
-- 👩💻 Je suis étudiante en informatique.
-- 🌱 J'apprends le développement web.
-- 💡 J'aime découvrir de nouvelles technologies.
-- 🎯 Mon objectif est de devenir développeuse web.
-
-### 🛠️ Mes compétences
-
+## 🛠️ Mes compétences
 - HTML
 - CSS
 - JavaScript
 - PHP
 - SQL
-- MySQL
+- Git et GitHub
 
-### 📚 Ce que j'apprends actuellement
+## 📂 Mes projets
+- Gestion des frais académiques
+- Création de sites web
 
-- Développement web
-- Gestion des bases de données
-- Programmation
-
-### 💖 Citation
-
-"Chaque ligne de code est un pas vers mon avenir."
-
----
-
-<h3 align="center">✨ Merci de visiter mon profil ! ✨</h3>
+## 📫 Me contacter
+- Blog : https://kahambusiwatula.blogspot.com/
