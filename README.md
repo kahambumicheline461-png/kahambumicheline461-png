@@ -25,14 +25,5 @@ Bienvenue sur mon profil GitHub !
 ## 📫 Me contacter
 - Blog : https://kahambusiwatula.blogspot.com/
 
-- ---
 
-## 📂 MY POPULAR REPOSITORIES
-
-### 💻 MICHELINE
-[Voir mon projet MICHELINE](https://github.com/kahambumicheline461-png/MICHELINE)
-
-⭐ Projet informatique personnel
-
----
 
